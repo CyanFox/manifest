@@ -424,7 +424,7 @@
   </project>
   
   <project path="device/lge/hammerhead" name="AOSPA/android_device_lge_hammerhead" remote="github" revision="kitkat" />
-  <project path="device/lge/hammerhead-kernel" name="AOSPA/android_kernel_lge_hammerhead" remote="github" revision="kitkat" />
+  <project path="kernel/lge/hammerhead" name="AOSPA/android_kernel_lge_hammerhead" remote="github" revision="kitkat" />
   <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" revision="cm-11.0" />
 
 </manifest>
